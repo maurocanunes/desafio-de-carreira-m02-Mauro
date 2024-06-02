@@ -61,4 +61,7 @@
   - **Currículo e Carta de Apresentação**
     > Nosso currículo deve conter informações pessoais (contato e local de residência), informações profissionais (locais de trabalho anterior), uma breve descrição do nosso objetivo profissional, quais habilidades/formações e cursos possuimos.
     > A carta de apresentação é uma forma de explicarmos melhor quem somos para o recrutador.
+ - **LinkedIn**
+   > LinkedIn é uma rede social para profissionais onde fazemos de forma ativa nossa apresentação, podemos fazer postagens sobre conquistas e projetos bem como inserir nossas informações do currículo.
+
        
