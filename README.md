@@ -63,5 +63,24 @@
     > A carta de apresentação é uma forma de explicarmos melhor quem somos para o recrutador.
   - **LinkedIn**
     > LinkedIn é uma rede social para profissionais onde fazemos de forma ativa nossa apresentação, podemos fazer postagens sobre conquistas e projetos bem como inserir nossas informações do currículo.
+<hr/>
 
-       
+## O que quero aprender
+   - Como superar a procrastinação durante minha **gestão de tempo**
+   - Como utilizar melhor o **LinkedIn**
+   - Alguns **Métodos de Array**
+   - Alguns **Métodos de String**
+<hr/>
+
+## O que aprendi
+   - **Gestão de tempo**
+     > Não existe uma fómula mágica para não procrastinar, devemos sempre buscar formas de realizar nosso trabalho da melhor forma possível.
+     > A procrastinação é algo natural que ocorre porém depende de nós mesmos contorna-la e voltar para a produção do trabalho efetivo.
+     > Existem várias ferramentas de organização e planejamento que podemos utilizar.
+     > Uma ótima ideia é a de preenchermos nossa agenda com as tarefas e deveres que temos, incluindo momentos de lazer e distração, assim a "procrastinação" se torna algo programado.
+  - **LinkedIn**
+    > A movimentação do LinkedIn com postagens é algo essencial para o sucesso na plataforma.
+    > Realizar conexões com pessoas relacionadas a área de atuação é indispenssável, porém deve ser feito com cautela e de forma estratégica.
+    > Inscrever-se em vagas que estão de acordo com seu perfil e sempre que possível se conectar e enviar menssagem para o recrutador
+  - **Métodos de Array | Métodos de String**
+    > Consegui aprender que existem funcionalidades embutidas em arrays e strings que permitem com que certas ações que antes necessitariam de loops possam serem feitas de forma mais direta e rápida.
