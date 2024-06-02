@@ -58,15 +58,13 @@
 
 - **Desenvolvimento Unidade 2**
      - **Funções**
-       > theu
+       > São blocos de códigos que geralmente são criados para que não precisemos ficar repetindo a mesma lógica, isso facilita para centralização de lógicas, tratamento de valores e evita inconcistências no código.
      - **Tipos de Dados**
-       > thtt
+       > São todos os tipos de informações que podemos ter dentro de um código (string, number, array, object) e também podemos criar nosso próprio tipo.
      - **Tipos Utilitários**
-       > the
-     - **Métodos de Strings**
-       > the
-     - **Métodos de Arrays**
-       > the
+       > Podemos manipular e alterar os tipos no TypeScript, permitindo um controle maior sobre os dados no código.
+     - **Métodos de Strings | Métodos de Arrays**
+       > Nós podemos utilizar atributos específicos de **Strings** e **Arrays** que facilitam o acesso a certas funcionalidades que antes (sem esses métodos) precisariamos criar uma lógica muitas vezes muito complexa
   
 - **Carreira Unidade 1**
      - **Introdução a Soft Skills**
