@@ -46,7 +46,13 @@
   - **Pensando como um programador | Lógica de programação**
      > O pensamento de programador e a lógica de progamação são conteúdos que já tenho familiaridade e venho praticando
      > a anos, implemento lógicas de máquinas na minha vida real para manter uma visão diferenciada para resolução de problemas.
-
+  - **Git Básico | Node.js, NPM e Package.json**
+     > Eu já havia trabalhado com Git e Node.js.
+     > Com o Git conseguimos manter um controle de versão do código que estamos trabalhando, sendo possível retornar a pontos no passado do código.
+     > Com Node.js conseguimos desenvolver funcionalidades de backend que irão servir nossos programas (servidores).
+  - **Variáveis | Condicionais | Arrays e Loops | Objetos**
+     > É interessante como esses conteúdos se unem, pois podemos inserir **objetos** (dados com uma key: value) dentro de um **array** (conjunto de informações no formato de lista) e isso tudo pode ir dentro de **variáveis** (espaço temporário da memória utilizado)
+     > Com os **Loops** podemos percorrer todos os itens do **array** e utilizando as **condicionais** podemos realizar verificações específicas que podem nos retornar true|false.
 - **Carreira Unidade 1**
      - **Introdução a Soft Skills**
        > As soft skills são habilidades que considero fazerem parte da minha vida de forma natural.
@@ -70,6 +76,7 @@
    - Como utilizar melhor o **LinkedIn**
    - Alguns **Métodos de Array**
    - Alguns **Métodos de String**
+   - **TypeScript**
 <hr/>
 
 ## O que aprendi
@@ -80,6 +87,8 @@
      > Uma ótima ideia é a de preenchermos nossa agenda com as tarefas e deveres que temos, incluindo momentos de lazer e distração, assim a "procrastinação" se torna algo programado.
   - **LinkedIn**
     > A movimentação do LinkedIn com postagens é algo essencial para o sucesso na plataforma.
+  - **TypeScript**
+    > Como a tipagem e a criação dos meus própios tipos facilita o desenvolvimento.
     > Realizar conexões com pessoas relacionadas a área de atuação é indispenssável, porém deve ser feito com cautela e de forma estratégica.
     > Inscrever-se em vagas que estão de acordo com seu perfil e sempre que possível se conectar e enviar menssagem para o recrutador
   - **Métodos de Array | Métodos de String**
