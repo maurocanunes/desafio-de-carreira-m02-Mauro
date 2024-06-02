@@ -53,6 +53,21 @@
   - **Variáveis | Condicionais | Arrays e Loops | Objetos**
      > É interessante como esses conteúdos se unem, pois podemos inserir **objetos** (dados com uma key: value) dentro de um **array** (conjunto de informações no formato de lista) e isso tudo pode ir dentro de **variáveis** (espaço temporário da memória utilizado)
      > Com os **Loops** podemos percorrer todos os itens do **array** e utilizando as **condicionais** podemos realizar verificações específicas que podem nos retornar true|false.
+  - **TypeScript**
+     > É uma "variação" do JavaScript desenvolvido para dar um controle maior ao tratamento de dados dentro do código utilizando a tipagem de dados.
+
+- **Desenvolvimento Unidade 2**
+     - **Funções**
+       > theu
+     - **Tipos de Dados**
+       > thtt
+     - **Tipos Utilitários**
+       > the
+     - **Métodos de Strings**
+       > the
+     - **Métodos de Arrays**
+       > the
+  
 - **Carreira Unidade 1**
      - **Introdução a Soft Skills**
        > As soft skills são habilidades que considero fazerem parte da minha vida de forma natural.
