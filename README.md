@@ -57,5 +57,8 @@
       >Entendo como ética tudo aquilo que faço que **não** irá prejudicar outra pessoa, tendo isso em mente e aplicando na tecnologia, algumas boas práticas de convivência são essenciais, como por exemplo a forma com que tratamos e quais informações solicitamos a úsuarios, o como agimos diante da utilização de códigos de terceiros (respeitando direitos autorais e etc.) e também a forma como agimos diante de conteúdos senssiveis da empresa em que estamos trabalhando.
 - **Carreira Unidade 2**
   - **Gestão de Tempo**
-     >Sobre Gestão ...
+     >Na gestão de tempo entendo que devemos nos organizar criando níveis de prioridade para nossas tarefas.
+  - **Currículo e Carta de Apresentação**
+    > Nosso currículo deve conter informações pessoais (contato e local de residência), informações profissionais (locais de trabalho anterior), uma breve descrição do nosso objetivo profissional, quais habilidades/formações e cursos possuimos.
+    > A carta de apresentação é uma forma de explicarmos melhor quem somos para o recrutador.
        
